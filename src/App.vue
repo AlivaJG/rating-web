@@ -14,7 +14,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import url("https://fonts.googleapis.com/css?family=Bangers|Permanent+Marker|Graduate:400,700");
+@import url("https://fonts.googleapis.com/css?family=Red+Hat+Display|Permanent+Marker|Graduate:400,700");
 
 
 // main css
@@ -157,7 +157,7 @@ h4 {
 }
 
 .at-btn__text {
-  font-family: "Bangers", cursive;
+  font-family: "Red Hat Display", cursive;
   font-size: 22px;
   font-weight: 100;
   padding-left: 2px;
@@ -211,14 +211,14 @@ h4 {
 .super-name {
   font-size: 24px;
   color: #fff;
-  font-family: "Bangers", cursive;
+  font-family: "Red Hat Display", cursive;
   font-weight: 100;
   text-shadow: 4px 4px 6px #000;
 }
 
 .super-name-lead {
   font-size: 48px;
-  font-family: "Bangers", cursive;
+  font-family: "Red Hat Display", cursive;
   font-weight: 100;
   text-shadow: 4px 4px 6px #000;
 }
@@ -262,7 +262,7 @@ h4 {
   padding-right: 6px;
   font-size: 16px;
   color: #ccc;
-  font-family: "Bangers", cursive;
+  font-family: "Red Hat Display", cursive;
   font-weight: 100;
   text-shadow: 2px 2px 1px #000;
 }
@@ -270,7 +270,7 @@ h4 {
 .super-star-text-totals {
   font-size: 18px;
   color: #fff;
-  font-family: "Bangers", cursive;
+  font-family: "Red Hat Display", cursive;
 }
 
 .super-vote {
